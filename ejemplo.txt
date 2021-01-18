@@ -2,5 +2,5 @@
 
 #Estas tres primeras líneas estaban escritas inicialmente.
 
-#Esto es una copia local.
+#Esto es una copia local
 
